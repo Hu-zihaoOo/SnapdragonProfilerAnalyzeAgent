@@ -72,8 +72,6 @@ DEEPSEEK_MODEL=deepseek-v4-pro
 python main.py analyze path\to\capture.csv --output report.md
 ```
 
-不要提交 `.env` 或真实 API Key。
-
 ## 提示词
 
 默认提示词文件：
